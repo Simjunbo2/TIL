@@ -12,8 +12,8 @@ print("깔끔한 파이썬 단단한 백엔드 5단원 까지 읽기")
 ```
 ---
 ## 📕k8s + jenkins Logo ##
-![아무이름](/jenkins%26K8S%20%EC%9D%B4%EB%AF%B8%EC%A7%80/jenkins.gif)
-![아무거나2](/jenkins%26K8S%20%EC%9D%B4%EB%AF%B8%EC%A7%80/k8s.gif)
+![아무이름](./jenkins%26K8S%20%EC%9D%B4%EB%AF%B8%EC%A7%80/jenkins.gif)
+![아무거나2](./jenkins%26K8S%20%EC%9D%B4%EB%AF%B8%EC%A7%80/k8s.gif)
 ## 📕처리 로직 ##
 * cluster 환경에서 jenkins실행
 * 도커 sock공유하여 docker환경을 공유하는 dood방식 설정
