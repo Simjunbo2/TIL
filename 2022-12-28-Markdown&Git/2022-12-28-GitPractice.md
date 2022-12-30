@@ -48,14 +48,13 @@
 - docker의 .dockerignore와 동일한 개념이다.<br><br><br><br>
     * 작성방법
 ```
-특정 디렉토리: /
 
 ```
 ---
 
 ## Git push 실패 ❓
 
-![실패시 나오는 문구](/PushError.png)
+![실패시 나오는 문구](./jenkins%26K8S%20%EC%9D%B4%EB%AF%B8%EC%A7%80/PushError.png)
 * **원인** = 로컬과 원격 저장소의 커밋 이력이 다르기 때문에
 * **해결방법(순서대로)** 
     * 원격저장소의 커밋을 로컬로 pull
